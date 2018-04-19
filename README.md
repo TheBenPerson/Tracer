@@ -5,7 +5,7 @@
 Tracer is a demo ray tracer written with C++.
 
 ![screenshot.png](screenshot.png)
-![screenshot1.png](screenshot1.png)
+![screenshot2.png](screenshot2.png)
 
 ### Dependancies:
 
